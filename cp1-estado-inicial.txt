@@ -1,0 +1,6 @@
+git branch
+git log --oneline
+* main
+c924f3e (HEAD -> main) Crea historia inicial en main
+9f9bdfe (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit

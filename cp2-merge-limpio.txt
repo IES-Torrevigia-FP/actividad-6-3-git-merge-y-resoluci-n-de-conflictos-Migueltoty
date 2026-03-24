@@ -1,0 +1,10 @@
+git merge capitulo-1
+
+
+git log --oneline 
+c924f3e (HEAD -> main, capitulo-1) Crea historia inicial en main
+9f9bdfe (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
+
+
+ es la unión automática de dos ramas

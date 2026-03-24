@@ -1,0 +1,10 @@
+git log --oneline 
+c24cd8f (HEAD -> main) Resuelve conflicto en línea 2 combinando ambas versiones
+d4e682f Modifica línea 2 en main
+1c787c8 (version-alternativa) Modifica línea 2 en rama alternativa
+c924f3e (capitulo-1) Crea historia inicial en main
+9f9bdfe (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
+
+
+Pues para resolver el conflicto me he tenido que meter al archivo y borrar lo que no queria que estuviese el final y ya esta
